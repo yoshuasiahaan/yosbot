@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Yoshua" src="https://avatars.githubusercontent.com/u/51822708?s=400&u=afe6960b88de6a4d35ab4a83ea76a3baa01504bd&v=4"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 Yoshua Yos
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -73,6 +73,6 @@ Ket: Aktiv 24 jam
 * [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`ALLAH SWT`]
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+* [`Jesus`]
+
 
