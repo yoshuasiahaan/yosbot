@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Yoshua
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ramlan666/babybot/main/assets/R4ML4N.jpg" width="230" height="230"/>
+<img src="https://avatars.githubusercontent.com/u/51822708?s=400&u=afe6960b88de6a4d35ab4a83ea76a3baa01504bd&v=4" width="230" height="230"/>
 </p>
 <br>
 
