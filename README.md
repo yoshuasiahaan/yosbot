@@ -47,15 +47,15 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
+* [`Donasi Ramlan ID`](https://saweria.co/yoshuayos)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
-* [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
+* [`Youtube Admin`](https://youtube.com/c/yoshgaming)
+* [`Instagram Admin`](https://instagram.com/yoshuaxyos)
+* [`WhatsApp Admin `](https://wa.me/+6285896230212)
+* [`Group WhatsApp `](https://chat.whatsapp.com/)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`Jesus`]
